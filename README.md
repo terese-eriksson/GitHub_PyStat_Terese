@@ -1,4 +1,4 @@
-# GitHub_PyStat_Terese
+## GitHub_PyStat_Terese
 
-# Kunskapskontroller i kursen PyStat 
-# Terese Eriksson
+#### Kunskapskontroller i kursen PyStat 
+#### Terese Eriksson
